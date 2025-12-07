@@ -13,10 +13,10 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 <!--## 🦖 Activities -->
-<div align="left"> 
+<!-- <div align="left">  -->
 <!--   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=oumelab&count_private=true&include_all_commits&theme=tokyonight&layout=compact" /> -->
-  <img alt="github stats" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumelab&count_private=true&include_all_commits&theme=tokyonight&layout=compact" />
-</div>
+  <!-- <img alt="github stats" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumelab&count_private=true&include_all_commits&theme=tokyonight&layout=compact" />
+</div> -->
 <!--
 **oumelab/oumelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
